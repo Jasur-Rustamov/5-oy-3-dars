@@ -1,39 +1,3 @@
-// const title = document.getElementById('greet');
-// const texts = document.getElementsByTagName('p');
-// const byClass = document.getElementsByClassName('hi');
-
-// const title = document.querySelector(".hi");
-// const text = document.querySelectorAll(".hi")
-
-// const title = document.getElementById("greet");
-// console.log(title.innerHTML);
-// title.innerHTML = '<a href = "#">Link</a>'
-
-// title.setAttribute("title", "nimadir");
-// console.log(title.getAttribute('title'));
-// console.log(title.hasAttribute('title'));
-
-// const title = document.getElementById("greet");
-
-// title && title.addEventListener('click', function(){
-//     document.clipboard('copy')
-// })
-
-// 1 // function randomcolor() {
-//     const letters = '0123456789ABCDEF';
-//     let color = '#';
-//     for (let i = 0; i < 6; i++) {
-//       color += letters[Math.floor(Math.random() * 16)];
-//     }
-//     return color;
-// }
-
-// document.getElementById('changeColorButton').addEventListener('click', function () {
-//     const texts = document.querySelectorAll('.text');
-//     texts.forEach(text => {
-//       text.style.color = randomcolor();
-//     });
-// });
 
 // 1 // Tugma bosilganda rangni o'zgartirish
 const btn = document.getElementById("isChanged-color");
